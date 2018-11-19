@@ -28,16 +28,9 @@ node app.js
 
 ## :v: Greetz 
 
-```
-JoaoVirgili
-Pride
-Conspiracionista
-Dido32
-Evo0o0
-Princess Leia
-Dragoso
-```
-
+Luiza Pereira
+Daniela Suttoff
+Junior Ramos
 
 
 ## :mailbox_with_mail: License 
