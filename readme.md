@@ -28,8 +28,8 @@ node app.js
 
 ## :v: Greetz 
 
-Luiza Pereira
-Daniela Suttoff
+Luiza Pereira <br>
+Daniela Suttoff <br>
 Junior Ramos
 
 
